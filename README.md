@@ -4,15 +4,24 @@
  </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikram0104irctc&label=Profile%20views&color=0e75b6&style=flat" alt="Vikram Kumar Choudhary" /> </p>
 
-- 🌱 I’m a Full Stack Web Developer
+🌱 I'm a passionate Full Stack Web Developer who loves creating beautiful and functional User Interfaces. I'm currently looking for a creative team to collaborate with and build amazing projects together.
 
-- 👨‍💻 I Like creating *beautiful User Interfaces*
+## 👨‍💻 What I Do
+- **Full Stack Development:** Building responsive and robust applications from front to back.
+-  **Front-End Development:** Crafting intuitive and engaging user experiences.
+-  **Back-End Development:** Developing efficient and scalable server-side solutions.
 
-- 🤝 I’m looking for a *creative team*
+## 💬 Ask Me About
+- Front-End Technologies (HTML, CSS, JavaScript, React, etc.)
+- Back-End Technologies (Node.js, Express, MongoDB, etc.)
+- Full Stack Development
+- Building and Designing APIs
 
-- 💬 Ask me about *Front-End and Backend*
+## 🤝 Let's Collaborate
+I'm always open to collaborating on exciting projects and innovative ideas. If you're looking for a dedicated and creative developer to join your team, let's connect!
 
-- 📫 How to reach me *vikram0104irctc@gmail.com*
+## 📫 How to Reach Me
+- **Email:** *vikram0104irctc@gmail.com*
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="dash" />
