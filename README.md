@@ -24,7 +24,7 @@ I'm always open to collaborating on exciting projects and innovative ideas. If y
 - **Email:** *vikram0104irctc@gmail.com*
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="dash" />
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="dash" />
 </div>
 
 <h3 align="left">Connect with me:</h3>
