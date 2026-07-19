@@ -39,8 +39,8 @@ I'm always open to collaborating on exciting projects and innovative ideas. If y
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikram0104irctc&show_icons=true&locale=en&layout=compact" alt="vikram0104irctc" /></p>
+<p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=vikram0104irctc&show_icons=true&locale=en&layout=compact" alt="vikram0104irctc" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikram0104irctc&show_icons=true&locale=en" alt="vikram0104irctc" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vikram0104irctc&show_icons=true&locale=en" alt="vikram0104irctc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikram0104irctc&" alt="vikram0104irctc" /></p>
